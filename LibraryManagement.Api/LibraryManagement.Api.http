@@ -1,0 +1,5 @@
+@LibraryManagement.Api_HostAddress = https://localhost:7299
+
+GET {{LibraryManagement.Api_HostAddress}}/api/categories
+
+###
